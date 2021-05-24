@@ -1,0 +1,10 @@
+{
+  "Id": "SubnauticaTimeBZ",
+  "DisplayName": "SubnauticaTimeBZ",
+  "Author": "smb",
+  "Version": "1.0",
+  "Enable": true,
+  "Game": "BelowZero",
+  "AssemblyName": "SubnauticaTimeBZ.dll"
+  "EntryMethod": "SubnauticaTimeBZ.MainPatch.FirstStart",
+}
